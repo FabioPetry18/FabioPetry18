@@ -1,4 +1,4 @@
-## Olá eu sou o Fabio, Graduado no curso de ADS e atualmente na área de QA!
+## Olá eu sou o Fabio, Graduado no curso de ADS e atualmente trabalhando como FullStack Java!
 <div align="center">
   <a href="https://github.com/FabioPetry18">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioPetry18&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
